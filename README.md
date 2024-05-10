@@ -1,8 +1,8 @@
-[<h4 align="left">Hello! I'm Shumal 👋 from Estonia 🌍, a Software Developer specializing in the Odoo Framework 💻. I'm passionate about using technology to solve complex problems and improve business efficiency 🚀. Let's connect and innovate together!</h4>
+<h4 align="left">Hello! I'm Shumal 👋 from Estonia 🌍, a Software Developer specializing in the Odoo Framework 💻. I'm passionate about using technology to solve complex problems and improve business efficiency 🚀. Let's connect and innovate together!</h4>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://pbs.twimg.com/media/Eyxwoh5VgAIt8on.jpg"  />
 
 ###
 
@@ -50,4 +50,3 @@
 </div>
 
 ###
-](https://pbs.twimg.com/media/Eyxwoh5VgAIt8on.jpg)
