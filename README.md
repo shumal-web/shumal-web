@@ -1,11 +1,11 @@
-<h4 align="left">Hello! I'm Shumal 👋 from Estonia 🌍, a Software Developer specializing in the Odoo Framework 💻. I'm passionate about using technology to solve complex problems and improve business efficiency 🚀. Let's connect and innovate together!</h4>
+<h3 align="left">Hello! I'm Shumal 👋 from Estonia 🌍, a Software Developer specializing in the Odoo Framework 💻. I'm passionate about using technology to solve complex problems and improve business efficiency 🚀. Let's connect and innovate together!</h3>
 
-<h2>Odoo Customization</h2>
-<h2>Odoo Widgets Creation, Customization and Migration to Different OWL Version</h2>
-<h2>Odoo Modules Migration && Migration Script</h2>
-<h2>Odoo Version Migration(On-Premise && Odoo Sh)</h2>
-<h2>Odoo Third Part Integration With BI tools / BI Dashboards With Odoo </h2>
-<h2>All-in-all v13,v14,v15,v16 and v17</h2>
+<h4>Odoo Customization</h4>
+<h4>Odoo Widgets Creation, Customization and Migration to Different OWL Version</h4>
+<h4>Odoo Modules Migration && Migration Script</h4>
+<h4>Odoo Version Migration(On-Premise && Odoo Sh)</h4>
+<h4>Odoo Third Part Integration With BI tools / BI Dashboards With Odoo </h4>
+<h4>All-in-all v13,v14,v15,v16 and v17</h4>
 
 
 ###
