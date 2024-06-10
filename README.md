@@ -1,5 +1,13 @@
 <h4 align="left">Hello! I'm Shumal 👋 from Estonia 🌍, a Software Developer specializing in the Odoo Framework 💻. I'm passionate about using technology to solve complex problems and improve business efficiency 🚀. Let's connect and innovate together!</h4>
 
+<h2>Odoo Customization</h2>
+<h2>Odoo Widgets Creation, Customization and Migration to Different OWL Version</h2>
+<h2>Odoo Modules Migration && Migration Script</h2>
+<h2>Odoo Version Migration(On-Premise && Odoo Sh)</h2>
+<h2>Odoo Third Part Integration With BI tools / BI Dashboards With Odoo </h2>
+<h2>All-in-all v13,v14,v15,v16 and v17</h2>
+
+
 ###
 
 <img align="right" height="150" src="https://pbs.twimg.com/media/Eyxwoh5VgAIt8on.jpg"  />
